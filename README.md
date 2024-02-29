@@ -1,2 +1,2 @@
 # discord-bot-
-discord bot is communication centre where u can chat with friends or work colleges
+ interacts with the Discord platform's API to perform various tasks within Discord servers.
